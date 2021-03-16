@@ -10,6 +10,7 @@ function mathTest(x, y) {
 }
 // Only change code bellow this line
 mathTest(2, 2);
+mathTest(2, 8);
 console.log(mathTest(2, 2));
 console.log(mathTest(-2, 2));
 console.log(mathTest(2, -2));
